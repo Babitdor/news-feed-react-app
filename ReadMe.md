@@ -16,5 +16,4 @@ Built Using React.js and Expo:
 
 # Screenshot
 
-<img src="https://user-images.githubusercontent.com/57758789/164212369-4e820ca9-3456-4f96-8213-41a3a4bba74e.png" resizeMode='contain'>
-
+![WhatsApp Image 2022-04-20 at 3 54 15 PM](https://user-images.githubusercontent.com/57758789/164213081-51056c31-f2b7-4bfc-8a15-3fb201104080.jpeg)
