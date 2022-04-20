@@ -16,5 +16,5 @@ Built Using React.js and Expo:
 
 # Screenshot
 
-<img src="https://user-images.githubusercontent.com/57758789/164212369-4e820ca9-3456-4f96-8213-41a3a4bba74e.png" width="400" height="900">
+<img src="https://user-images.githubusercontent.com/57758789/164212369-4e820ca9-3456-4f96-8213-41a3a4bba74e.png" width="400" height="1000">
 
