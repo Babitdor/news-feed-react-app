@@ -1,4 +1,4 @@
-import { API_KEY, endpoint, country } from './config'
+import { API_KEY, endpoint, country } from './config';
 
 export async function services(category='general') {
     
