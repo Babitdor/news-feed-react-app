@@ -1,4 +1,6 @@
-News Feed App Using React.js and Expo
+# News Feed App 
+
+Built Using React.js and Expo:
 
 ! -- Currently in Development --!
 
