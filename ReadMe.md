@@ -16,4 +16,5 @@ Built Using React.js and Expo:
 
 # Screenshot
 
-![Screenshot_20220420-155937](https://user-images.githubusercontent.com/57758789/164212163-16421efe-df87-42a6-acca-9054ff519d2a.png)
+
+![Screenshot_20220420-155406](https://user-images.githubusercontent.com/57758789/164212369-4e820ca9-3456-4f96-8213-41a3a4bba74e.png)
