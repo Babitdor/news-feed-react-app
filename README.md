@@ -1,5 +1,3 @@
-# NewsApp
-A News-feed-app that has a similar layout to the Google News App
 <p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://user-images.githubusercontent.com/57758789/205992949-7481bf79-245d-439f-beaf-5d500372fcc5.png" alt="Project logo"></a>
