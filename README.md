@@ -25,7 +25,6 @@
 ## 📝 Table of Contents
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Usage](#usage)
 - [Built Using](#built_using)
 - [Authors](#authors)
 
@@ -87,9 +86,6 @@ Type the following command in the terminal referencing the root path of the app 
 npx react-native run-android
 ```
 This will run the application and launch a Metro server along with it.
-
-## 🎈 Usage <a name="usage"></a>
-Add notes about how to use the system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [Firebase](https://firebase.google.com) - Database
